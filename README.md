@@ -13,6 +13,7 @@
 </p>
 
 ## Example
+<img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/27423930-5a70-4d09-8c51-8bf1c527b36d" alt="digit_8_gif" width="450" height="auto">
 
 <p>
  While drawing the interface shows the current prediction and its confidence. 
