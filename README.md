@@ -18,6 +18,6 @@
  While drawing the interface shows the current prediction and its confidence. 
 </p>
 
- <img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/ccbfc0ef-8439-4092-bf8f-4808b709e0fb" alt="image" width="280" height="auto">
- <img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/7657fe18-e1ab-492f-b903-765590569c23" alt="image" width="280" height="auto">
- <img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/7d7017b4-4b41-4775-bb60-ab457c2c7834" alt="image" width="280" height="auto">
+ <img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/ccbfc0ef-8439-4092-bf8f-4808b709e0fb" alt="image" width="220" height="auto">
+ <img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/7657fe18-e1ab-492f-b903-765590569c23" alt="image" width="220" height="auto">
+ <img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/7d7017b4-4b41-4775-bb60-ab457c2c7834" alt="image" width="220" height="auto">
