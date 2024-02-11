@@ -9,7 +9,7 @@
 #### main.py: 
 <p>
  Creating a interface so we can draw digits that the model then tries to predict. <br>
- The canvas to draw on has a size of 280x280, but the image is scaled down to 28x28 to fit the input-size if the model.
+ The canvas to draw on has a size of 280x280, but the image is scaled down to 28x28 to fit the input-size of the model.
 </p>
 
 ## Example
