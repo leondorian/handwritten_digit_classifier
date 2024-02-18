@@ -1,12 +1,15 @@
 # handwritten digit classifier
 
-#### model_training.py:
+### model_training.py:
  Using the mnist dataset to train a model.
  
-#### model_evaluation.py:
+### model_evaluation.py:
  Evaluation of the trained model.
  
-#### main.py: 
+##### Visualization:
+ <img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/170585ff-6418-4481-87ce-5c40065d6e6a" alt="digit_8_gif" width="450" height="auto">
+ 
+### main.py: 
 
 <p>
  Creating a interface so we can draw digits that the model then tries to predict. <br>
@@ -14,7 +17,7 @@
 </p>
 
 ## Example
-<img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/27423930-5a70-4d09-8c51-8bf1c527b36d" alt="digit_8_gif" width="450" height="auto" border-radius="50">
+<img src="https://github.com/leondorian/handwritten_digit_classifier/assets/154075579/27423930-5a70-4d09-8c51-8bf1c527b36d" alt="digit_8_gif" width="450" height="auto">
 
 <p>
  While drawing the interface shows the current prediction and its confidence. 
